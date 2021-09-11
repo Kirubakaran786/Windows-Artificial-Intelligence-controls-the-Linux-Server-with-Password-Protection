@@ -36,8 +36,8 @@ The following is our proposed methodology and working model of my Project :-
  	-> The Output of the all the process can be display in the Web Browser of Windows 10.
 
  	-> Technologies and Languages I used behind this project is Python for Artificial Intelligence in windows and 
-  also Backend Language in Redhat 8 Linux operating System, HTML for Frontend, JavaScript and AJAX for transferring/communicating 
-  data between Client and Server side. Apache server is used to creating a path for data transfer between the client and server side.
+     also Backend Language in Redhat 8 Linux operating System, HTML for Frontend, JavaScript and AJAX for transferring/communicating 
+     data between Client and Server side. Apache server is used to creating a path for data transfer between the client and server side.
 
  	-> By using this same process, We can also control the RedHat 8 Linux operating system running in the Cloud Service. 
 
